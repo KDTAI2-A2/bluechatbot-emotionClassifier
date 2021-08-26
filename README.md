@@ -1,2 +1,2 @@
 # bluechatbot-emotionClassifier
-emotion classifier using koGPT2
+emotion classifier using koBERT
